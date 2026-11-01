@@ -1,0 +1,1197 @@
+[
+  {
+    "artist": "Wire",
+    "title": "154",
+    "genre": "Post-punk",
+    "tags": [
+      "minimal",
+      "angular",
+      "urgent"
+    ],
+    "rarity": 45,
+    "experimentation": 70
+  },
+  {
+    "artist": "Gang of Four",
+    "title": "Entertainment!",
+    "genre": "Post-punk",
+    "tags": [
+      "rhythm",
+      "angular",
+      "funk"
+    ],
+    "rarity": 40,
+    "experimentation": 65
+  },
+  {
+    "artist": "The Pop Group",
+    "title": "Y",
+    "genre": "Post-punk",
+    "tags": [
+      "avant",
+      "funk",
+      "dub"
+    ],
+    "rarity": 80,
+    "experimentation": 98
+  },
+  {
+    "artist": "This Heat",
+    "title": "Deceit",
+    "genre": "Post-punk",
+    "tags": [
+      "avant",
+      "angular",
+      "experimental"
+    ],
+    "rarity": 87,
+    "experimentation": 100
+  },
+  {
+    "artist": "The Sound",
+    "title": "From the Lions Mouth",
+    "genre": "Post-punk",
+    "tags": [
+      "melodic",
+      "urgent"
+    ],
+    "rarity": 68,
+    "experimentation": 35
+  },
+  {
+    "artist": "Magazine",
+    "title": "Real Life",
+    "genre": "Post-punk",
+    "tags": [
+      "synth",
+      "melodic",
+      "angular"
+    ],
+    "rarity": 54,
+    "experimentation": 40
+  },
+  {
+    "artist": "The Chameleons",
+    "title": "Script of the Bridge",
+    "genre": "Post-punk",
+    "tags": [
+      "melodic",
+      "atmospheric"
+    ],
+    "rarity": 62,
+    "experimentation": 34
+  },
+  {
+    "artist": "Pere Ubu",
+    "title": "The Modern Dance",
+    "genre": "Post-punk",
+    "tags": [
+      "avant",
+      "angular",
+      "experimental"
+    ],
+    "rarity": 78,
+    "experimentation": 92
+  },
+  {
+    "artist": "The Raincoats",
+    "title": "The Raincoats",
+    "genre": "Post-punk",
+    "tags": [
+      "avant",
+      "folk",
+      "raw"
+    ],
+    "rarity": 74,
+    "experimentation": 77
+  },
+  {
+    "artist": "The Verlaines",
+    "title": "Bird Dog",
+    "genre": "Post-punk",
+    "tags": [
+      "melodic",
+      "angular"
+    ],
+    "rarity": 90,
+    "experimentation": 50
+  },
+  {
+    "artist": "Mission of Burma",
+    "title": "Vs.",
+    "genre": "Post-punk",
+    "tags": [
+      "angular",
+      "urgent",
+      "avant"
+    ],
+    "rarity": 71,
+    "experimentation": 73
+  },
+  {
+    "artist": "ESG",
+    "title": "Come Away with ESG",
+    "genre": "Post-punk",
+    "tags": [
+      "funk",
+      "minimal",
+      "rhythm"
+    ],
+    "rarity": 78,
+    "experimentation": 52
+  },
+  {
+    "artist": "Maximum Joy",
+    "title": "Station M.X.J.Y.",
+    "genre": "Post-punk",
+    "tags": [
+      "funk",
+      "dub",
+      "rhythm"
+    ],
+    "rarity": 88,
+    "experimentation": 80
+  },
+  {
+    "artist": "Young Marble Giants",
+    "title": "Colossal Youth",
+    "genre": "Post-punk",
+    "tags": [
+      "minimal",
+      "melodic"
+    ],
+    "rarity": 68,
+    "experimentation": 50
+  },
+  {
+    "artist": "Au Pairs",
+    "title": "Playing with a Different Sex",
+    "genre": "Post-punk",
+    "tags": [
+      "funk",
+      "angular"
+    ],
+    "rarity": 81,
+    "experimentation": 58
+  },
+  {
+    "artist": "Josef K",
+    "title": "The Only Fun in Town",
+    "genre": "Post-punk",
+    "tags": [
+      "angular",
+      "urgent"
+    ],
+    "rarity": 86,
+    "experimentation": 57
+  },
+  {
+    "artist": "King Crimson",
+    "title": "Larks' Tongues in Aspic",
+    "genre": "Rock progressif",
+    "tags": [
+      "experimental",
+      "virtuoso",
+      "angular"
+    ],
+    "rarity": 54,
+    "experimentation": 93
+  },
+  {
+    "artist": "King Crimson",
+    "title": "Red",
+    "genre": "Rock progressif",
+    "tags": [
+      "heavy",
+      "experimental",
+      "virtuoso"
+    ],
+    "rarity": 35,
+    "experimentation": 83
+  },
+  {
+    "artist": "Gentle Giant",
+    "title": "Octopus",
+    "genre": "Rock progressif",
+    "tags": [
+      "virtuoso",
+      "experimental"
+    ],
+    "rarity": 58,
+    "experimentation": 77
+  },
+  {
+    "artist": "Van der Graaf Generator",
+    "title": "Pawn Hearts",
+    "genre": "Rock progressif",
+    "tags": [
+      "dark",
+      "experimental",
+      "virtuoso"
+    ],
+    "rarity": 75,
+    "experimentation": 95
+  },
+  {
+    "artist": "Can",
+    "title": "Future Days",
+    "genre": "Rock progressif",
+    "tags": [
+      "kraut",
+      "groove",
+      "ambient"
+    ],
+    "rarity": 53,
+    "experimentation": 83
+  },
+  {
+    "artist": "Neu!",
+    "title": "Neu! 75",
+    "genre": "Rock progressif",
+    "tags": [
+      "kraut",
+      "motorik",
+      "minimal"
+    ],
+    "rarity": 68,
+    "experimentation": 69
+  },
+  {
+    "artist": "Magma",
+    "title": "Mëkanïk Dëstruktïẁ Kömmandöh",
+    "genre": "Rock progressif",
+    "tags": [
+      "experimental",
+      "virtuoso",
+      "zeuhl"
+    ],
+    "rarity": 93,
+    "experimentation": 100
+  },
+  {
+    "artist": "Gong",
+    "title": "Flying Teapot",
+    "genre": "Rock progressif",
+    "tags": [
+      "psych",
+      "avant",
+      "virtuoso"
+    ],
+    "rarity": 74,
+    "experimentation": 86
+  },
+  {
+    "artist": "Soft Machine",
+    "title": "Third",
+    "genre": "Rock progressif",
+    "tags": [
+      "jazz",
+      "experimental",
+      "avant"
+    ],
+    "rarity": 68,
+    "experimentation": 99
+  },
+  {
+    "artist": "Hatfield and the North",
+    "title": "The Rotters' Club",
+    "genre": "Rock progressif",
+    "tags": [
+      "jazz",
+      "virtuoso"
+    ],
+    "rarity": 88,
+    "experimentation": 82
+  },
+  {
+    "artist": "Camel",
+    "title": "Mirage",
+    "genre": "Rock progressif",
+    "tags": [
+      "melodic",
+      "virtuoso"
+    ],
+    "rarity": 49,
+    "experimentation": 35
+  },
+  {
+    "artist": "Banco del Mutuo Soccorso",
+    "title": "Darwin!",
+    "genre": "Rock progressif",
+    "tags": [
+      "virtuoso",
+      "melodic"
+    ],
+    "rarity": 83,
+    "experimentation": 65
+  },
+  {
+    "artist": "Premiata Forneria Marconi",
+    "title": "Per un amico",
+    "genre": "Rock progressif",
+    "tags": [
+      "melodic",
+      "virtuoso"
+    ],
+    "rarity": 73,
+    "experimentation": 55
+  },
+  {
+    "artist": "Serú Girán",
+    "title": "La grasa de las capitales",
+    "genre": "Rock progressif",
+    "tags": [
+      "melodic",
+      "jazz",
+      "experimental"
+    ],
+    "rarity": 88,
+    "experimentation": 60
+  },
+  {
+    "artist": "Area",
+    "title": "Arbeit macht frei",
+    "genre": "Rock progressif",
+    "tags": [
+      "jazz",
+      "avant",
+      "experimental"
+    ],
+    "rarity": 90,
+    "experimentation": 98
+  },
+  {
+    "artist": "Patrick Cowley",
+    "title": "Mind Warp",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "dance",
+      "space"
+    ],
+    "rarity": 75,
+    "experimentation": 62
+  },
+  {
+    "artist": "Black Devil",
+    "title": "Disco Club",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "dance",
+      "space",
+      "experimental"
+    ],
+    "rarity": 95,
+    "experimentation": 86
+  },
+  {
+    "artist": "Kebekelektrik",
+    "title": "Kebekelektrik",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "dance",
+      "space"
+    ],
+    "rarity": 93,
+    "experimentation": 60
+  },
+  {
+    "artist": "Cerrone",
+    "title": "Supernature",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "dance",
+      "space"
+    ],
+    "rarity": 42,
+    "experimentation": 45
+  },
+  {
+    "artist": "Giorgio Moroder",
+    "title": "From Here to Eternity",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "dance",
+      "space"
+    ],
+    "rarity": 52,
+    "experimentation": 56
+  },
+  {
+    "artist": "Dinosaur L",
+    "title": "24->24 Music",
+    "genre": "Disco",
+    "tags": [
+      "dance",
+      "groove",
+      "experimental"
+    ],
+    "rarity": 82,
+    "experimentation": 88
+  },
+  {
+    "artist": "Space",
+    "title": "Magic Fly",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "space",
+      "melodic"
+    ],
+    "rarity": 52,
+    "experimentation": 40
+  },
+  {
+    "artist": "Munich Machine",
+    "title": "Get on the Funk Train",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "dance",
+      "groove"
+    ],
+    "rarity": 89,
+    "experimentation": 45
+  },
+  {
+    "artist": "Rinder & Lewis",
+    "title": "Seven Deadly Sins",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "space",
+      "groove"
+    ],
+    "rarity": 95,
+    "experimentation": 71
+  },
+  {
+    "artist": "Kano",
+    "title": "Kano",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "dance",
+      "italo"
+    ],
+    "rarity": 86,
+    "experimentation": 49
+  },
+  {
+    "artist": "Change",
+    "title": "The Glow of Love",
+    "genre": "Disco",
+    "tags": [
+      "groove",
+      "dance"
+    ],
+    "rarity": 55,
+    "experimentation": 29
+  },
+  {
+    "artist": "Sylvester",
+    "title": "Step II",
+    "genre": "Disco",
+    "tags": [
+      "dance",
+      "groove",
+      "melodic"
+    ],
+    "rarity": 52,
+    "experimentation": 35
+  },
+  {
+    "artist": "Gino Soccio",
+    "title": "Outline",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "dance",
+      "space"
+    ],
+    "rarity": 85,
+    "experimentation": 49
+  },
+  {
+    "artist": "Alexander Robotnick",
+    "title": "Ce n'est qu'un début",
+    "genre": "Disco",
+    "tags": [
+      "synth",
+      "italo",
+      "dance"
+    ],
+    "rarity": 96,
+    "experimentation": 58
+  },
+  {
+    "artist": "Klaus Schulze",
+    "title": "Timewind",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "ambient",
+      "space"
+    ],
+    "rarity": 78,
+    "experimentation": 85
+  },
+  {
+    "artist": "Tangerine Dream",
+    "title": "Phaedra",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "ambient",
+      "space"
+    ],
+    "rarity": 56,
+    "experimentation": 82
+  },
+  {
+    "artist": "Jean-Michel Jarre",
+    "title": "Équinoxe",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "space",
+      "melodic"
+    ],
+    "rarity": 28,
+    "experimentation": 43
+  },
+  {
+    "artist": "Kraftwerk",
+    "title": "Trans-Europe Express",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "minimal",
+      "motorik"
+    ],
+    "rarity": 28,
+    "experimentation": 55
+  },
+  {
+    "artist": "Yellow Magic Orchestra",
+    "title": "Solid State Survivor",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "groove",
+      "experimental"
+    ],
+    "rarity": 56,
+    "experimentation": 67
+  },
+  {
+    "artist": "Holger Czukay",
+    "title": "Movies",
+    "genre": "Électronique",
+    "tags": [
+      "experimental",
+      "groove",
+      "avant"
+    ],
+    "rarity": 87,
+    "experimentation": 90
+  },
+  {
+    "artist": "Mort Garson",
+    "title": "Mother Earth's Plantasia",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "ambient",
+      "melodic"
+    ],
+    "rarity": 74,
+    "experimentation": 52
+  },
+  {
+    "artist": "Haruomi Hosono",
+    "title": "Philharmony",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "experimental",
+      "groove"
+    ],
+    "rarity": 80,
+    "experimentation": 77
+  },
+  {
+    "artist": "Bruce Haack",
+    "title": "The Electric Lucifer",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "psych",
+      "experimental"
+    ],
+    "rarity": 86,
+    "experimentation": 90
+  },
+  {
+    "artist": "Silver Apples",
+    "title": "Silver Apples",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "psych",
+      "experimental"
+    ],
+    "rarity": 75,
+    "experimentation": 90
+  },
+  {
+    "artist": "Automat",
+    "title": "Automat",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "space",
+      "experimental"
+    ],
+    "rarity": 88,
+    "experimentation": 65
+  },
+  {
+    "artist": "Suicide",
+    "title": "Suicide",
+    "genre": "Électronique",
+    "tags": [
+      "synth",
+      "minimal",
+      "raw"
+    ],
+    "rarity": 47,
+    "experimentation": 85
+  },
+  {
+    "artist": "The United States of America",
+    "title": "The United States of America",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "synth",
+      "experimental"
+    ],
+    "rarity": 78,
+    "experimentation": 91
+  },
+  {
+    "artist": "The Pretty Things",
+    "title": "S.F. Sorrow",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "melodic"
+    ],
+    "rarity": 67,
+    "experimentation": 48
+  },
+  {
+    "artist": "The 13th Floor Elevators",
+    "title": "The Psychedelic Sounds of the 13th Floor Elevators",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "raw"
+    ],
+    "rarity": 64,
+    "experimentation": 70
+  },
+  {
+    "artist": "Amon Düül II",
+    "title": "Yeti",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "kraut",
+      "experimental"
+    ],
+    "rarity": 80,
+    "experimentation": 90
+  },
+  {
+    "artist": "Ash Ra Tempel",
+    "title": "Ash Ra Tempel",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "kraut",
+      "experimental"
+    ],
+    "rarity": 82,
+    "experimentation": 98
+  },
+  {
+    "artist": "The Millennium",
+    "title": "Begin",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "melodic"
+    ],
+    "rarity": 82,
+    "experimentation": 52
+  },
+  {
+    "artist": "The Zombies",
+    "title": "Odessey and Oracle",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "melodic"
+    ],
+    "rarity": 39,
+    "experimentation": 27
+  },
+  {
+    "artist": "Love",
+    "title": "Forever Changes",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "melodic",
+      "folk"
+    ],
+    "rarity": 37,
+    "experimentation": 47
+  },
+  {
+    "artist": "Broadcast",
+    "title": "Tender Buttons",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "synth",
+      "experimental"
+    ],
+    "rarity": 73,
+    "experimentation": 77
+  },
+  {
+    "artist": "Stereolab",
+    "title": "Dots and Loops",
+    "genre": "Psychédélisme",
+    "tags": [
+      "psych",
+      "groove",
+      "experimental"
+    ],
+    "rarity": 59,
+    "experimentation": 80
+  },
+  {
+    "artist": "Brian Eno",
+    "title": "Ambient 1: Music for Airports",
+    "genre": "Ambient",
+    "tags": [
+      "ambient",
+      "minimal",
+      "experimental"
+    ],
+    "rarity": 25,
+    "experimentation": 65
+  },
+  {
+    "artist": "Hiroshi Yoshimura",
+    "title": "Green",
+    "genre": "Ambient",
+    "tags": [
+      "ambient",
+      "minimal",
+      "melodic"
+    ],
+    "rarity": 80,
+    "experimentation": 33
+  },
+  {
+    "artist": "Steve Roach",
+    "title": "Structures from Silence",
+    "genre": "Ambient",
+    "tags": [
+      "ambient",
+      "space",
+      "minimal"
+    ],
+    "rarity": 78,
+    "experimentation": 37
+  },
+  {
+    "artist": "Harold Budd",
+    "title": "The Pavilion of Dreams",
+    "genre": "Ambient",
+    "tags": [
+      "ambient",
+      "melodic",
+      "experimental"
+    ],
+    "rarity": 69,
+    "experimentation": 59
+  },
+  {
+    "artist": "Biosphere",
+    "title": "Substrata",
+    "genre": "Ambient",
+    "tags": [
+      "ambient",
+      "dark",
+      "experimental"
+    ],
+    "rarity": 58,
+    "experimentation": 67
+  },
+  {
+    "artist": "William Basinski",
+    "title": "The Disintegration Loops",
+    "genre": "Ambient",
+    "tags": [
+      "ambient",
+      "minimal",
+      "experimental"
+    ],
+    "rarity": 64,
+    "experimentation": 92
+  },
+  {
+    "artist": "Susumu Yokota",
+    "title": "Sakura",
+    "genre": "Ambient",
+    "tags": [
+      "ambient",
+      "melodic",
+      "experimental"
+    ],
+    "rarity": 78,
+    "experimentation": 70
+  },
+  {
+    "artist": "The Durutti Column",
+    "title": "The Return of the Durutti Column",
+    "genre": "Ambient",
+    "tags": [
+      "ambient",
+      "melodic",
+      "postpunk"
+    ],
+    "rarity": 78,
+    "experimentation": 54
+  },
+  {
+    "artist": "David Sylvian",
+    "title": "Brilliant Trees",
+    "genre": "New wave",
+    "tags": [
+      "synth",
+      "melodic",
+      "experimental"
+    ],
+    "rarity": 72,
+    "experimentation": 71
+  },
+  {
+    "artist": "Japan",
+    "title": "Tin Drum",
+    "genre": "New wave",
+    "tags": [
+      "synth",
+      "experimental",
+      "groove"
+    ],
+    "rarity": 67,
+    "experimentation": 77
+  },
+  {
+    "artist": "Talking Heads",
+    "title": "Remain in Light",
+    "genre": "New wave",
+    "tags": [
+      "funk",
+      "groove",
+      "experimental"
+    ],
+    "rarity": 30,
+    "experimentation": 88
+  },
+  {
+    "artist": "Ultravox",
+    "title": "Systems of Romance",
+    "genre": "New wave",
+    "tags": [
+      "synth",
+      "melodic",
+      "angular"
+    ],
+    "rarity": 68,
+    "experimentation": 43
+  },
+  {
+    "artist": "The Human League",
+    "title": "Travelogue",
+    "genre": "New wave",
+    "tags": [
+      "synth",
+      "minimal",
+      "experimental"
+    ],
+    "rarity": 75,
+    "experimentation": 71
+  },
+  {
+    "artist": "Orchestral Manoeuvres in the Dark",
+    "title": "Dazzle Ships",
+    "genre": "New wave",
+    "tags": [
+      "synth",
+      "experimental",
+      "avant"
+    ],
+    "rarity": 77,
+    "experimentation": 87
+  },
+  {
+    "artist": "John Foxx",
+    "title": "Metamatic",
+    "genre": "New wave",
+    "tags": [
+      "synth",
+      "minimal"
+    ],
+    "rarity": 65,
+    "experimentation": 54
+  },
+  {
+    "artist": "Yello",
+    "title": "Solid Pleasure",
+    "genre": "New wave",
+    "tags": [
+      "synth",
+      "groove",
+      "experimental"
+    ],
+    "rarity": 79,
+    "experimentation": 83
+  },
+  {
+    "artist": "Herbie Hancock",
+    "title": "Sextant",
+    "genre": "Jazz",
+    "tags": [
+      "synth",
+      "jazz",
+      "experimental"
+    ],
+    "rarity": 78,
+    "experimentation": 88
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "On the Corner",
+    "genre": "Jazz",
+    "tags": [
+      "jazz",
+      "funk",
+      "experimental"
+    ],
+    "rarity": 52,
+    "experimentation": 96
+  },
+  {
+    "artist": "Sun Ra",
+    "title": "Lanquidity",
+    "genre": "Jazz",
+    "tags": [
+      "jazz",
+      "groove",
+      "space"
+    ],
+    "rarity": 76,
+    "experimentation": 82
+  },
+  {
+    "artist": "Alice Coltrane",
+    "title": "Journey in Satchidananda",
+    "genre": "Jazz",
+    "tags": [
+      "jazz",
+      "ambient",
+      "experimental"
+    ],
+    "rarity": 63,
+    "experimentation": 72
+  },
+  {
+    "artist": "Dorothy Ashby",
+    "title": "The Rubaiyat of Dorothy Ashby",
+    "genre": "Jazz",
+    "tags": [
+      "jazz",
+      "psych",
+      "experimental"
+    ],
+    "rarity": 86,
+    "experimentation": 69
+  },
+  {
+    "artist": "Tim Buckley",
+    "title": "Lorca",
+    "genre": "Folk",
+    "tags": [
+      "folk",
+      "experimental",
+      "avant"
+    ],
+    "rarity": 73,
+    "experimentation": 93
+  },
+  {
+    "artist": "John Martyn",
+    "title": "Solid Air",
+    "genre": "Folk",
+    "tags": [
+      "folk",
+      "ambient",
+      "melodic"
+    ],
+    "rarity": 54,
+    "experimentation": 56
+  },
+  {
+    "artist": "Vashti Bunyan",
+    "title": "Just Another Diamond Day",
+    "genre": "Folk",
+    "tags": [
+      "folk",
+      "melodic"
+    ],
+    "rarity": 69,
+    "experimentation": 30
+  },
+  {
+    "artist": "Comus",
+    "title": "First Utterance",
+    "genre": "Folk",
+    "tags": [
+      "folk",
+      "psych",
+      "experimental"
+    ],
+    "rarity": 88,
+    "experimentation": 96
+  },
+  {
+    "artist": "Nick Drake",
+    "title": "Bryter Layter",
+    "genre": "Folk",
+    "tags": [
+      "folk",
+      "melodic",
+      "jazz"
+    ],
+    "rarity": 38,
+    "experimentation": 49
+  },
+  {
+    "artist": "The Feelies",
+    "title": "Crazy Rhythms",
+    "genre": "Rock indépendant",
+    "tags": [
+      "angular",
+      "melodic",
+      "postpunk"
+    ],
+    "rarity": 69,
+    "experimentation": 60
+  },
+  {
+    "artist": "Galaxie 500",
+    "title": "On Fire",
+    "genre": "Rock indépendant",
+    "tags": [
+      "melodic",
+      "ambient",
+      "slow"
+    ],
+    "rarity": 61,
+    "experimentation": 42
+  },
+  {
+    "artist": "The Clean",
+    "title": "Vehicle",
+    "genre": "Rock indépendant",
+    "tags": [
+      "melodic",
+      "raw",
+      "postpunk"
+    ],
+    "rarity": 82,
+    "experimentation": 43
+  },
+  {
+    "artist": "Yo La Tengo",
+    "title": "Painful",
+    "genre": "Rock indépendant",
+    "tags": [
+      "ambient",
+      "melodic",
+      "experimental"
+    ],
+    "rarity": 60,
+    "experimentation": 61
+  },
+  {
+    "artist": "Arthur Russell",
+    "title": "World of Echo",
+    "genre": "Musique du monde",
+    "tags": [
+      "experimental",
+      "ambient",
+      "avant"
+    ],
+    "rarity": 77,
+    "experimentation": 98
+  },
+  {
+    "artist": "Mulatu Astatke",
+    "title": "Mulatu of Ethiopia",
+    "genre": "Musique du monde",
+    "tags": [
+      "jazz",
+      "groove",
+      "experimental"
+    ],
+    "rarity": 80,
+    "experimentation": 57
+  },
+  {
+    "artist": "Francis Bebey",
+    "title": "African Electronic Music 1975-1982",
+    "genre": "Musique du monde",
+    "tags": [
+      "synth",
+      "groove",
+      "experimental"
+    ],
+    "rarity": 91,
+    "experimentation": 75
+  },
+  {
+    "artist": "William Onyeabor",
+    "title": "Who Is William Onyeabor?",
+    "genre": "Musique du monde",
+    "tags": [
+      "synth",
+      "groove",
+      "dance"
+    ],
+    "rarity": 80,
+    "experimentation": 64
+  }
+]
